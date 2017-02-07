@@ -182,6 +182,7 @@ input {
     background-color: #fff;
     overflow: auto;
     margin-bottom: 60px;
+    position: static;
 }
 
 #wrapper {
@@ -412,6 +413,8 @@ img {
     background-color: #fff;
     overflow: auto;
     margin-bottom: 60px;
+	position: static;
+
 }
 
 #wrapper {
@@ -607,6 +610,8 @@ input {
     background-color: #fff;
     overflow: auto;
     margin-bottom: 60px;
+    position: static;
+
 }
 
 #wrapper {
